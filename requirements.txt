@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+
+
+
+google api creating website: https://aistudio.google.com/app/apikey
